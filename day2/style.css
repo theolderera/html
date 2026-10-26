@@ -1,0 +1,22 @@
+.box{
+    display: flex;
+    gap: 30px;
+    align-self: auto;
+    height: 100vh;
+    div{
+        width: 500px;
+        height: 200px;
+        font-size: 50px;
+        color: white;
+    }
+}
+.d1{
+    background-color: red;
+}
+.d2{
+    background-color: green;
+    align-self: ;
+}
+.d3{
+    background-color: blue;
+}
